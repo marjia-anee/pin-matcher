@@ -28,4 +28,7 @@ document.getElementById('submit').addEventListener('click', function(){
        document.getElementById('wrong-message').style.display = 'block';
        document.getElementById('right-message').style.display = 'none';
    }
+
+   document.getElementById('pinMatchDisplay').value = "";
+
 })
