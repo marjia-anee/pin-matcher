@@ -29,6 +29,6 @@ document.getElementById('submit').addEventListener('click', function(){
        document.getElementById('right-message').style.display = 'none';
    }
 
-   document.getElementById('pinMatchDisplay').value = " ";
+   document.getElementById('pinMatchDisplay').value = "";
 
 })
